@@ -18,7 +18,8 @@ Classify sentences/subtopics into 5 categories
   
   __Sentiment analysis on each category in training set__
   
-  - develop model on training data, verify its accuracy on test set
+  - develop classification model on training data to categorize sentences, verify its accuracy on test set
+  - apply sentiment aglorithm on each 'categorized' sentence
 
  __Model Methods__
   
